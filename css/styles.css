@@ -329,6 +329,12 @@ ul {
 p, h1, h2, h3 {
     margin: 0;
 }
-.icon {
-    fill: #4D5AE5;
+.icon a {
+    background-color: #4D5AE5;
+    fill: #f4f4fd;
+    background-size: 40px 40px;
+    border-radius: 50%;
+}
+.icon a:hover {
+    background-color:#404BBF;
 }
