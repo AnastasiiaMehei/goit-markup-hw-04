@@ -438,3 +438,6 @@ p, h1, h2, h3 {
     padding-top: 100px;
     padding-bottom: 16px;
 }
+.social-links-foot {
+    margin-right: 0;
+}
