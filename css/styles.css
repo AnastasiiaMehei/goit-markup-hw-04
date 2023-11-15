@@ -404,10 +404,12 @@ p, h1, h2, h3 {
 }
 .social-links {
     display: flex;
-    gap: 24px;
-    align-items: center;
+    gap: 16px;
+}
+.social-links-section-three {
+    display: flex;
     justify-content: center;
-
+    gap: 24px;
 }
 .social-links-item {
     width: 40px;
